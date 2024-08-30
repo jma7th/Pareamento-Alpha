@@ -35,6 +35,7 @@
   "name":"Pareamento-Alpha",
   "resources":[
     {"id":{"name":"fonte_debug","path":"fonts/fonte_debug/fonte_debug.yy",},},
+    {"id":{"name":"fonte_menor","path":"fonts/fonte_menor/fonte_menor.yy",},},
     {"id":{"name":"fonte_placeholder","path":"fonts/fonte_placeholder/fonte_placeholder.yy",},},
     {"id":{"name":"game","path":"objects/game/game.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -42,6 +43,7 @@
     {"id":{"name":"snd_acerto","path":"sounds/snd_acerto/snd_acerto.yy",},},
     {"id":{"name":"snd_erro","path":"sounds/snd_erro/snd_erro.yy",},},
     {"id":{"name":"snd_erro2","path":"sounds/snd_erro2/snd_erro2.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_boneca","path":"sprites/spr_boneca/spr_boneca.yy",},},
     {"id":{"name":"spr_cachorro","path":"sprites/spr_cachorro/spr_cachorro.yy",},},
     {"id":{"name":"spr_carro","path":"sprites/spr_carro/spr_carro.yy",},},
